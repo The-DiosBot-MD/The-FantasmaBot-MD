@@ -1,10 +1,10 @@
-# ***🔥 THE-FANTASMABOT-MD 🔥***
+# ***👻 THE-FANTASMABOT-MD 👻***
 
 <p align="center">
 <img src="https://github.com/ADRIAN-OFC/FANTASMA-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="FANTASMA-BOT-MD" width="900"/>
 </p>
 
-### `—◉ ❤️BOTS OFICIALES`
+### `—◉ 🤖BOTS OFICIALES`
 
 <a href="http://wa.me/595994825505" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
@@ -15,9 +15,9 @@
 <a href="http://wa.me/595986637644" target="blank"><img src="https://img.shields.io/badge/Paraguy_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/595971253989" target="blank"><img src="https://img.shields.io/badge/Luna_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ 🔥GRUPOS OFICIALES`
+### `—◉ 👻GRUPOS OFICIALES👻`
 
-[![blog](https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+[![blog](https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h)  <a href="https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 [![blog](https://img.shields.io/badge/Grupo-Oficial2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/C3TfpGAEnpYHMqfe5YbZfc)  <a href="https://chat.whatsapp.com/C3TfpGAEnpYHMqfe5YbZfc"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
