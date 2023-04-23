@@ -1,20 +1,19 @@
-# ***🔥 DORRAT-BOT-MD 🔥***
+# ***🔥 THE-FANTASMABOT-MD 🔥***
 
 <p align="center">
-<img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="DORRAT-BOT-MD" width="900"/>
+<img src="https://github.com/ADRIAN-OFC/FANTASMA-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="FANTASMA-BOT-MD" width="900"/>
 </p>
 
 ### `—◉ ❤️BOTS OFICIALES`
 
-<a href="http://wa.me/51954473183" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595994825505" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
 
-<a href="http://wa.me/593959425714" target="blank"><img src="https://img.shields.io/badge/DIEGO_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/573184314110" target="blank"><img src="https://img.shields.io/badge/Narsol_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986674310" target="blank"><img src="https://img.shields.io/badge/viruzz_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51993138466" target="blank"><img src="https://img.shields.io/badge/DANI_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50246028932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595994836199" target="blank"><img src="https://img.shields.io/badge/Arian_Ofc_Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595994825505" target="blank"><img src="https://img.shields.io/badge/A.A.S_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a https://github.com/595986637644" target="blank"><img src="https://img.shields.io/badge/Paraguy_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595971253989" target="blank"><img src="https://img.shields.io/badge/Luna_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉ 🔥GRUPOS OFICIALES`
 
@@ -25,12 +24,6 @@
 
 ---------
 > GRUPOS OFICIALES DEL BOT PARA LA DIVERSIÓN :)
-
-## `[🗂️] Página del bot`
-
-<a href="https://dorrat-bot-oficial.ml/" target="_blank"> <img src="https://img.shields.io/badge/-pagina aqui-%23E4405F?style=for-the-badge&logo=página aqui&logoColor=black" target="_blank"></a> 
-
-> [⚠️] USAR LOS BOTS SIN SPAM
 
 ### `—◉ 📦 𝐇𝐎𝐓𝐒 𝐏𝐀𝐑𝐀 𝐓𝐄𝐍𝐄𝐑 𝐄𝐋 𝐁𝐎𝐓 𝟐𝟒/𝟕`
 
@@ -44,18 +37,18 @@
   
 ### `—◉ 🛡️ ACTIVAR EN REPLIT 🛡️`
 
-[![Run on Repl.it](https://repl.it/badge/github/DIEGO-OFC/DORRAT-BOT-MD)](https://repl.it/github/DIEGO-OFC/DORRAT-BOT-MD)
+[![Run on Repl.it](https://repl.it/badge/github/The-DiosBot-MD/The-FantasmaBot-MD)](https://repl.it/github/The-DiosBot-MD/The-FantasmaBot-MD)
 > [❗ obligatorio ❗] si vas a instalar en replit edita la carpeta index-inicio.js y ponle index.js
 > Es obligatorio o no funcionará en replit
 
 ### `—◉ 🔮 ACTIVAR EN HEROKU 🔮`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DIEGO-OFC/DORRAT-BOT-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/The-DiosBot-MD/The-FantasmaBot-MD)
 
 ### `—◉ ⚒️ 𝐀𝐉𝐔𝐒𝐓𝐄𝐒 ⚒️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/configuracion.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/The-DiosBot-MD/Tje-FantasmaBot-MD/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/ADRIAN-OFC/FANTASMA-BOT-MD/blob/main/configuracion.js)
 
-### <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/unnamed.png" height="30px"> 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
+### <img src="https://github.com/ADRIAN-OFC/FANTASMA-BOT-MD/blob/main/galeria/unnamed.png" height="30px"> 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 > cd
@@ -67,8 +60,8 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/DORRAT-TERMUX
-> cd DORRAT-TERMUX
+> git clone https://github.com/ADRIAN-OFC/FANTASMA-TERMUX
+> cd FANTASMA-TERMUX
 > yarn install 
 > npm install
 > npm update
@@ -79,18 +72,18 @@
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
+> cd FANTASMA-TERMUX
 > npm start
 ```
 
-### `—◉ 𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑` <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/qrcode_30531084_.png" height="30px">
+### `—◉ 𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑` <img src="https://github.com/The-DiosBot-MD/The-FantasmaBot-MD/blob/main/galeria/qrcode_30531084_.png" height="30px">
 
-- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A DORRAT-TERMUX $  
+- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A FANTASMA-TERMUX $  
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
-> rm -rf DORRATSESSION 
+> cd FANTASMA-TERMUX
+> rm -rf FANTASMASESSION 
 > npm start
 ```
 
@@ -100,7 +93,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > 𝙴𝙻 𝙱𝙾𝚃 𝙴𝚂 𝙲𝙾𝙼𝙿𝙰𝚁𝚃𝙸𝙱𝙻𝙴 𝙲𝙾𝙽 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙽𝙾𝚁𝙼𝙰𝙻 𝙾 𝙱𝚄𝚂𝙸𝙽𝙴𝚂𝚂
 > 𝙰𝚃𝙴𝙽𝚃𝙾 𝙰 𝙻𝙰𝚂 𝙰𝙲𝚃𝚄𝙰𝙻𝙸𝚉𝙰𝙲𝙸𝙾𝙽𝙴𝚂 𝚀𝚄𝙴 𝚂𝙴 𝙷𝙰𝙶𝙰𝙽 𝙴𝙽 𝙴𝚂𝚃𝙴 𝚁𝙴𝙿𝙾𝚂𝙸𝚃𝙾𝚁𝙸𝙾
 > 𝙴𝙻 𝙰𝙳𝙳 𝚈 𝙴𝙻 𝙺𝙸𝙲𝙺 𝙿𝚄𝙴𝙳𝙴𝙽 𝙾𝙲𝙰𝚂𝙸𝙾𝙽𝙰𝚁 𝚀𝚄𝙴 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝚂𝙴 𝚅𝙰𝚈𝙰 𝙰 𝚂𝙾𝙿𝙾𝚁𝚃𝙴 𝙿𝙾𝚁 𝙴𝙻𝙻𝙾 𝚂𝙴 𝙰𝙲𝚃𝙸𝚅𝙰 𝙲𝙾𝙽 #𝚎𝚗𝚊𝚋𝚕𝚎 𝚛𝚎𝚜𝚝𝚛𝚒𝚌𝚝 
-> 𝙳𝙾𝚁𝚁𝙰𝚃-𝙱𝙾𝚃 - 𝚃𝙴𝙰𝙼 𝙽𝙾 𝚂𝙴 𝙷𝙰𝙲𝙴 𝚁𝙴𝚂𝙿𝙾𝙽𝚂𝙰𝙱𝙻𝙴 𝙳𝙴𝙻 𝚄𝚂𝙾, 𝙽𝚄𝙼𝙴𝚁𝙾𝚂, 𝙿𝚁𝙸𝚅𝙰𝙲𝙸𝙳𝙰𝙳 𝚈 𝙲𝙾𝙽𝚃𝙴𝙽𝙸𝙳𝙾 𝙼𝙰𝙽𝙳𝙰𝙳𝙾, 𝚄𝚂𝙰𝙳𝙾 𝙾 𝙶𝙴𝚂𝚃𝙸𝙾𝙽𝙰𝙳𝙾 𝙿𝙾𝚁 𝚄𝚂𝚃𝙴𝙳𝙴𝚂 𝙾 𝙴𝙻 𝙱𝙾𝚃
+> 𝙵𝙰𝙽𝚃𝙰𝚂𝙼𝙰-𝙱𝙾𝚃 - 𝚃𝙴𝙰𝙼 𝙽𝙾 𝚂𝙴 𝙷𝙰𝙲𝙴 𝚁𝙴𝚂𝙿𝙾𝙽𝚂𝙰𝙱𝙻𝙴 𝙳𝙴𝙻 𝚄𝚂𝙾, 𝙽𝚄𝙼𝙴𝚁𝙾𝚂, 𝙿𝚁𝙸𝚅𝙰𝙲𝙸𝙳𝙰𝙳 𝚈 𝙲𝙾𝙽𝚃𝙴𝙽𝙸𝙳𝙾 𝙼𝙰𝙽𝙳𝙰𝙳𝙾, 𝚄𝚂𝙰𝙳𝙾 𝙾 𝙶𝙴𝚂𝚃𝙸𝙾𝙽𝙰𝙳𝙾 𝙿𝙾𝚁 𝚄𝚂𝚃𝙴𝙳𝙴𝚂 𝙾 𝙴𝙻 𝙱𝙾𝚃
 
 ## `COLABORADORES DEL BOT` 
 <a href="https://github.com/SinNombre999"><img src="https://github.com/SinNombre999.png" width="100" height="100" alt="SinNombre999"/></a>
@@ -113,6 +106,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-<a href="https://github.com/DIEGO-OFC"><img src="https://github.com/DIEGO-OFC.png" width="300" height="300" alt="DIEGO-OFC"/></a>
+<a href="https://github.com/The-DiosBot-MD-OFC"><img src="https://github.com/The-DiosBot-MD-OFC.png" width="300" height="300" alt="ADRIAN-OFC"/></a>
 
-> The Dorrat-bot - MD_ By DIEGO OFC 
+> The Fantasma-bot - MD_ By Adrian OFC 
