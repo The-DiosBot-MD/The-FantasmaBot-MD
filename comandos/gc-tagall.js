@@ -9,7 +9,7 @@ let handler = async (m, {isOwner, isAdmin, conn, participants, args}) => {
   for (let mem of participants) {
     teks += `│*𓏲⊹ ⌑  @${mem.id.split("@")[0]}\n`;
   }
-  teks += `*└*†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤†\n\n*▌│█║▌║▌║║▌║▌║▌║█*`;
+  teks += `*└*†👻𝐅𝐀𝐍𝐓𝐀𝐒𝐌𝐀᪣𝕭⃯𝚹⃯𝐓⃤†\n\n*▌│█║▌║▌║║▌║▌║▌║█*`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)});
 };
 handler.help = ["tagall <mesaje>", "invocar <mesaje>"];
