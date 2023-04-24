@@ -13,8 +13,8 @@ https://youtu.be/DKo7PO2ta4o
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/DORRAT-TERMUX
-> cd DORRAT-TERMUX
+> git clone https://github.com/The-DiosBot-MD/The-FantasmaBot-MD
+> cd FANTASMA-TERMUX
 > yarn install 
 > npm install
 > npm update
@@ -31,7 +31,7 @@ https://youtu.be/DKo7PO2ta4o
         body: "†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤†",
         previewType: 0,
         thumbnail: fs.readFileSync("./Menu2.jpg"),
-        sourceUrl: `https://github.com/DIEGO-OFC/DORRAT-BOT-MD`,
+        sourceUrl: `https://github.com/The-DiosBot-MD/The-FantasmaBot-MD`,
       },
     },
   });
