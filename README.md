@@ -60,7 +60,7 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/ADRIAN-OFC/FANTASMA-TERMUX
+> git clone https://github.com/The-DiosBot-MD/The-FantasmaBot-MD
 > cd FANTASMA-TERMUX
 > yarn install 
 > npm install
